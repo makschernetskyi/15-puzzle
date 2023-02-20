@@ -1,1 +1,1 @@
-"# 15-puzzle" 
+Simple 15-puzzle game written in vanilla js
