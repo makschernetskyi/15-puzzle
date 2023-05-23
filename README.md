@@ -6,7 +6,7 @@ Simple 15-puzzle game written in vanilla js
 <br>
 <img src="preview/base.jpg" width="400px">
 <br>
-<img src="previw/scrambled.jpg" width="400px">
+<img src="preview/scrambled.jpg" width="400px">
 <br>
 <h2>controls:</h2>
 Arrows ←↑→↓.
